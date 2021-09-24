@@ -1,0 +1,14 @@
+h1, h3{
+    background-color: rgb(6, 68, 109);
+    color:rgb(255, 255, 255);
+    font-family: 'Brush Script MT', sans-serif;
+}
+
+ul, ol {
+    background-color: rgb(219, 177, 166);
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
